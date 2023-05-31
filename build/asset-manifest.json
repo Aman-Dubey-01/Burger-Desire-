@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b59899b8.css",
+    "main.js": "/static/js/main.a052cb96.js",
+    "static/media/main.png": "/static/media/main.0be69958f3393ba72a66.png",
+    "static/media/doodle_bg.png": "/static/media/doodle_bg.6121fd536ffb46bc5c89.png",
+    "static/media/bg.png": "/static/media/bg.ee42055099732e5aa783.png",
+    "static/media/sandwich.png": "/static/media/sandwich.ea37453af798fc2ba5d0.png",
+    "static/media/pizza.png": "/static/media/pizza.37d4650578304d2ad688.png",
+    "static/media/pasta.png": "/static/media/pasta.12b12eda873291ce5a6e.png",
+    "static/media/rev3.jpg": "/static/media/rev3.557b89d8133de545a987.jpg",
+    "static/media/rev2.jpg": "/static/media/rev2.c3e03f3390cd131aead1.jpg",
+    "static/media/rev1.jpg": "/static/media/rev1.e1475e15ff46a02c60bc.jpg",
+    "static/media/bg_Left.png": "/static/media/bg_Left.9b50a22a764b0cc495fc.png",
+    "static/media/footer_bg.png": "/static/media/footer_bg.2c73fed9f417c2b09e60.png",
+    "static/media/burger.png": "/static/media/burger.8bb2c2d3c2d3c7b7f6d1.png",
+    "static/media/revicons.eot": "/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/noitem.png": "/static/media/noitem.5c24aa145fefd3c4e534.png",
+    "static/media/revicons.woff": "/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/index.html",
+    "main.b59899b8.css.map": "/static/css/main.b59899b8.css.map",
+    "main.a052cb96.js.map": "/static/js/main.a052cb96.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b59899b8.css",
+    "static/js/main.a052cb96.js"
+  ]
+}
